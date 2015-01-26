@@ -1,8 +1,16 @@
 #map{
-	width:1000px;
-	height:1000px;
+	text-align:center;
+	width:1300px;
+	height:700px;
+	
 }
+#m{
+	width:170px;
+	height:30px;
+	float:right;
+	margin-right:2%;
+}
+
 body{
 	background-color: #EABBBB;
 }
-
